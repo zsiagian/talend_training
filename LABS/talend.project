@@ -5,4 +5,7 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_cG4Wsq3MEe2oeNIKw-voqg" login="admin@deloitte.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_c-c34K3MEe2oeNIKw-voqg" login="gituser@deloitte.com" firstName="git" lastName="user" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_llynsK35Ee2AzdaJOVJfmg" login="dev1@deloitte.com" firstName="dev1" lastName="dev1" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_llynsa35Ee2AzdaJOVJfmg" login="dev2@deloitte.com" firstName="dev2" lastName="dev2" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_llynsq35Ee2AzdaJOVJfmg" login="operator@deloitte.com" firstName="operator" lastName="operator" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
